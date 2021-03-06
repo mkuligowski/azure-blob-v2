@@ -23,9 +23,8 @@ repositories {
 }
 
 azurefunctions {
-    resourceGroup = 'java-functions-group'
-    appName = 'azure-functions-sample'
-    pricingTier = 'Consumption'
+    resourceGroup = 'AZ-RG-anaplan-azure-Dev-01'
+    appName = 'anaplan-dev-function'
     region = 'westus'
     runtime {
       os = 'windows'
