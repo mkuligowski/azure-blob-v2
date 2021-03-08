@@ -1,5 +1,5 @@
 {
-    "azureFunctions.deploySubpath": "target\azure-functions\anaplan-dev-function",
+    "azureFunctions.deploySubpath": "target/azure-functions/anaplan-dev-function",
     "azureFunctions.projectLanguage": "Java",
     "azureFunctions.projectRuntime": "~3",
     "debug.internalConsoleOptions": "neverOpen",
